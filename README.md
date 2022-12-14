@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é um projeto no qual, a empresa fictícia chamada Oliveira Trade, solicitou uma forma de sign in e sign up de usuários, utilizando os campos básico para cadastro de pessoas físicas.
+Este é um projeto no qual, a empresa fictícia chamada Oliveira Trade, solicitou uma forma de sign in e sign up de usuários, utilizando os campos básicos para cadastro de pessoas físicas.
 
 ## Tecnologias utilizadas
 
