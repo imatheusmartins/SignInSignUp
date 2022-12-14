@@ -48,7 +48,13 @@
   <ItemGroup>
     <Compile Include="Conections\Conection.cs" />
     <Compile Include="Conections\Login.cs" />
-    <Compile Include="Models\Control.cs" />
+    <Compile Include="Models\Controle.cs" />
+    <Compile Include="Screens\BoasVindas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Screens\BoasVindas.Designer.cs">
+      <DependentUpon>BoasVindas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Screens\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -72,6 +78,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Screens\BoasVindas.resx">
+      <DependentUpon>BoasVindas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Screens\Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
