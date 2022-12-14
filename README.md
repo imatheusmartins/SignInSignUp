@@ -1,4 +1,4 @@
-# Sistema Sign in/Sign up, processo seletivo everymind.
+# Sistema Sign in/Sign up, processo seletivo Everymind.
 
 ## Introdução
 
